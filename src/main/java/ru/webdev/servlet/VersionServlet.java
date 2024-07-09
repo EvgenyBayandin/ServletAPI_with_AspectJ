@@ -7,8 +7,9 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Сервлет для обработки запросов, связанных с версией приложения.
+ * Класс демонстрирует работу с сервлетом.
  * Расширяет класс HttpServlet для обработки HTTP-запросов.
+ * endpoint "/version" установлен в web.xml
  *
  * @author webdev
  * @version 1.0
