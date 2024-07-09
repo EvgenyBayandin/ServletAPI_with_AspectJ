@@ -9,6 +9,10 @@ import java.io.IOException;
 /**
  * Сервлет для обработки запросов, связанных с версией приложения.
  * Расширяет класс HttpServlet для обработки HTTP-запросов.
+ *
+ * @author webdev
+ * @version 1.0
+ * @since 2024-07-09
  */
 public class VersionServlet extends HttpServlet {
     
